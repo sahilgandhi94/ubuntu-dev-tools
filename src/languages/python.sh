@@ -2,7 +2,7 @@
 
 # clone the github repo
 echo "Installing pyenv..."
-git clone https://github.com/yyuu/pyenv.git ~/.pyenv
+git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 
 # set variables
 export PYENV_ROOT="$HOME/.pyenv"
